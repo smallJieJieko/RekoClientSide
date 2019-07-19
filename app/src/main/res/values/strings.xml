@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Reko</string>
+    <!--<string name="ip">http://10.0.2.2:8080</string>-->
+    <string name="ip">http://www.jieko.club:8080</string>
+    //login
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="login">登陆</string>
+    <string name="forget">忘记账号或密码</string>
+    <string name="register">还没有账户？注册新账户</string>
+    <string name="wrong_login">账户或密码错误</string>
+    //register
+    <string name="register_title">注册新账户</string>
+    <string name="affirm_password">确认密码</string>
+    <string name="check_securityProtocol">查看安全协议相关说明</string>
+    <string name="check_look_securityProtocol">确认安全协议</string>
+    <string name="create_newUser">创建账户</string>
+    <string name="create_user_fail">创建失败</string>
+    <string name="create_user_success">创建成功，进入活动页面</string>
+    <string name="two_different_password">输入密码不一致</string>
+    <string name="account_already_register">用户名已被注册</string>
+    <string name="please_input_account">请输入登陆信息</string>
+    <string name="protocol_check_falg">请确认安协议</string>
+    //home
+    <string name="home_top_loge">Reko</string>
+    //user_detail
+    <string name="user_detail_nickname">昵称</string>
+    <string name="user_detail_udnumber">用户编号</string>
+    <string name="user_detail_age">年龄</string>
+    <string name="user_detail_sex">性别</string>
+    <string name="user_detail_friends_number">好友数量</string>
+    <string name="user_detail_join_activity_number">参加活动数量</string>
+    <string name="user_detail_create_activity_number">创建活动数量</string>
+    <string name="user_detail_create_activtiy">创建活动</string>
+    <string name="user_detail_my_join_activity">我参加的活动</string>
+    //button bar
+    <string name="button_bar_acctivity">活动</string>
+    <string name="button_bar_message">消息</string>
+    <string name="button_bar_friedns">好友</string>
+    <string name="button_bar_nearby">周边</string>
+    //create my activity
+    <string name="create_my_activtiy">开始创建我的活动吧</string>
+    <string name="create_my_activtiyName">活动名称</string>
+    <string name="create_my_activtiyIntro">活动简介</string>
+    <string name="create_my_activtiyUserNumber">活动人数</string>
+    <string name="create_my_activtiyDetail">活动详细说明</string>
+    <string name="create_my_activtiyPhoto">活动展示照片</string>
+    <string name="create_my_activtiyUploadiPicture">上传图片</string>
+    <string name="create_my_detail_hint">活动地点，活动注意事项，活动须知......活动流程，活动人员安排，活动经费......详细介绍活动...</string>
+    <string name="create_my_acvtivtyLabel">活动标签</string>
+    <string name="create_my_acvtivtyLabel_hint">类型&amp;地点</string>
+</resources>
